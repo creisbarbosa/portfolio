@@ -14,3 +14,7 @@
 - Sonatus 2.0 - UI/UX Case
 - Eximius AR - UI/UX Case
 - Artis Website - UI
+
+## Blog
+- Desin resources
+- Design posts
