@@ -1,0 +1,17 @@
+button {
+    cursor: pointer;
+  }
+
+#portfolio {
+    display: grid;
+    margin: 32px;
+}
+
+.project {
+    height: 500px;
+    width: 500px;
+}
+
+.img_project {
+    max-width: 500px;
+}
