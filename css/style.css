@@ -97,7 +97,7 @@ nav #meu_nome {
 	}
 
 .button {
-	color: #965800;;
+	color: #6e4000;;
 	font-size: 1rem;
 	font-weight: 600;
 	display: flex;
@@ -115,7 +115,7 @@ nav #meu_nome {
 	cursor: pointer;
 	width: auto;
 	max-width: 220px;
-	border: 2px solid #965800;
+	border: 2px solid #6e4000;
 	border-radius: 64px;
 }
 
@@ -152,7 +152,7 @@ nav #meu_nome {
 	}
 }
 
-@media (max-width:425px){
+@media (max-width:426px){
 
 	.pr {
 		margin: 16px;
