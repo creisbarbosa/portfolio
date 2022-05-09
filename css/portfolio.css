@@ -12,11 +12,12 @@ button {
 .project {
     width: 33.333%;
     padding: 8px;
-}
-
-.project {
     display: flex;
     flex-wrap: wrap;
+}
+
+.project :hover {
+    
 }
 
 .img_project {
